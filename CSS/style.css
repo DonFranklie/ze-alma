@@ -89,7 +89,6 @@ ul li .nav-button-2:hover {
 }
 .hero-section .hero-btns {
   margin-top: 20px;
-  font-weight: 500;
 }
 .hero-section .hero-btns .btn-1 {
   background-color: #fff;
@@ -99,6 +98,7 @@ ul li .nav-button-2:hover {
   cursor: pointer;
   border-radius: 4px;
   font-size: 14px;
+  font-weight: 600;
 }
 .hero-section .hero-btns .btn-2 {
   padding: 10px 35px;
@@ -108,6 +108,7 @@ ul li .nav-button-2:hover {
   cursor: pointer;
   border-radius: 4px;
   font-size: 14px;
+  font-weight: 600;
 }
 
 .section-2 {
@@ -206,7 +207,7 @@ ul li .nav-button-2:hover {
 .section-6 {
   display: grid;
   grid-template-columns: repeat(3, 439px);
-  grid-template-rows: 220px;
+  grid-template-rows: 290px;
   gap: 15px;
 }
 .section-6 .section-6-cards {
@@ -217,7 +218,7 @@ ul li .nav-button-2:hover {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: rgba(220, 220, 220, 0.3);
+  gap: 20px;
 }
 .section-6 .section-6-cards .not-overlay img {
   width: 439px;
@@ -227,6 +228,7 @@ ul li .nav-button-2:hover {
 }
 .section-6 .section-6-cards .not-overlay .not-overlay-text {
   opacity: 1;
+  font-weight: 500;
   transition: all 0.15s ease-in-out;
 }
 .section-6 .section-6-cards .yes-overlay {

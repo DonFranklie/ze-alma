@@ -14,7 +14,7 @@ $secondary-color: #000;
 
 .home-container{
     // background: linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.5)), url("/images/image-2.jpg");
-    background: linear-gradient(rgba(219, 53, 11, 0.1),rgba(219, 53, 11, 0.1), rgba(219, 53, 11, 0.1),rgba(219, 53, 11, 0.3)), url("/images/image-2.jpg");
+    background: linear-gradient(rgba(219, 53, 11, 0.1),rgba(219, 53, 11, 0.1), rgba(219, 53, 11, 0.1),rgba(219, 53, 11, 0.3)), url("./images/image-2.jpg");
     background-position: center;
     background-size: cover;
     height: 90vh;
@@ -204,7 +204,7 @@ ul{
     }
 
     .key-paragraph{
-        background: linear-gradient(rgb(0,0,0,0.5), rgb(0,0,0,0.5)), url("/images/image-2.jpg") ;
+        background: linear-gradient(rgb(0,0,0,0.5), rgb(0,0,0,0.5)), url("./images/image-2.jpg") ;
         background-position: center;
         background-size: cover;
         height: 40vh;
